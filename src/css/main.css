@@ -167,7 +167,7 @@ figcaption span {
   cursor: pointer;
 }
 
-@media (width >= 40rem) {
+@media (width >= 40em) {
   body {
     background-image: url(/images/pattern-background-desktop.svg);
   }
